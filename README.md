@@ -1,16 +1,16 @@
 # Data_Analyst_Jigar
 # Exploratory Data Analysis
 
-![EDA analysis]
+![EDA analysis](EDA.png)
 
 **Project Description:**
-Analyzing water system operating permits for patterns, trends, and anomalies in issued permits across mechanical system types, compliance, and contamination levels.
+Analyzing operating permits of water systems to identify patterns, trends, and anomalies in the permits issued by various categories of mechanical systems, regulatory compliance, and contamination levels.
 
 **Project Title:**
 Exploratory Analysis of Water System Operating Permits
 
 **Objective:**
-To identify trends in permit issuance, voluntary compliance, and contamination metrics for improving regulatory focus and operational priorities.
+To identify trends in permit issuance, voluntary compliance, and contamination actions to increase regulatory focus and operational priorities.
 
 **Dataset:**
 472 entries detailing operating permits for water systems, including mechanical system types, compliance status, geographical data, contamination metrics, and renewal dates.
@@ -34,7 +34,7 @@ To identify trends in permit issuance, voluntary compliance, and contamination m
 
 # Descriptive Analysis
 
-![Descriptive analysis](/images/description.png)
+![Descriptive analysis](description.png)
 
 **Project Description:**
 Summarizing the characteristics of water system permits and their distribution across system types and compliance status.
@@ -63,7 +63,7 @@ Details 472 water systems, focusing on system types like Cooling Towers, Buildin
 
 # Diagnostic Analysis
 
-![Diagnostic Analysis](/images/diagnostic.png)
+![Diagnostic Analysis](Diagnostic.png)
 
 **Project Description:**
 Analyzing factors affecting permit renewal patterns and voluntary compliance among mechanical system types.
@@ -102,7 +102,7 @@ Permit records with renewal dates, compliance status, and contamination metrics.
   
 # Data Wrangling
 
-![Data Wrangling](/images/wrangling.png)
+![Data Wrangling](Wrangling.png)
 
 **Project Description:**
 Cleaning and transforming water system permit data for accurate analysis and visualization.
@@ -140,7 +140,7 @@ Raw dataset stored in S3 bucket with 472 permit records.
 
 # Data Quality Control
 
-![Data Quality Control](/images/qualityControl.png)
+![Data Quality Control](Quality control.png)
 
 **Project Description:**
 Ensuring the reliability and accuracy of permit data through validation and governance measures.
