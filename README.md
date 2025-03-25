@@ -37,16 +37,16 @@ To identify trends in permit issuance, voluntary compliance, and contamination a
 ![Descriptive analysis](description.png)
 
 **Project Description:**
-Summarizing the characteristics of water system permits and their distribution across system types and compliance status.
+Those are the attributes of water system permits and their distribution across system types and compliance needs.
 
 **Project Title:**
 Descriptive Analysis of Water Permit Issuance
 
 **Objective:**
-To understand the distribution of permits across system types and voluntary vs. non-voluntary compliance categories.
+To determine the distribution of licenses among different system classifications and the difference between voluntary and mandatory compliance categories.
 
 **Dataset:**
-Details 472 water systems, focusing on system types like Cooling Towers, Building Water Treatment Systems, and Decorative Water Features.
+Covers 465 water systems, with an emphasis on types such as Cooling Towers, Building Water Treatment Systems, and Decorative Water Features.
 
 **Methodology:**
 - Count and percentage distribution of permits per system type.
