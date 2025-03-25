@@ -58,7 +58,7 @@ Covers 465 water systems, with an emphasis on types such as Cooling Towers, Buil
 - Excel and Tableau for visualization
 
 **Deliverables:**
-- Percentage of Cooling Tower permits (55.89%)
+- Percentage of Cooling Tower permits (79.35%)
 - Charts showing compliance trends and system breakdown
 
 # Diagnostic Analysis
