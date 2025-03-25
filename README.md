@@ -13,13 +13,13 @@ Exploratory Analysis of Water System Operating Permits
 To identify trends in permit issuance, voluntary compliance, and contamination actions to increase regulatory focus and operational priorities.
 
 **Dataset:**
-472 entries detailing operating permits for water systems, including mechanical system types, compliance status, geographical data, contamination metrics, and renewal dates.
+465 records containing operating permits for water systems, mechanical system types, compliance status, geographic information, contamination levels, and renewal dates.
 
 **Methodology:**
 
-- Perform descriptive statistics (means, medians, frequencies).
-- Visualize data with histograms, scatter plots, and trend charts.
-- Identify missing data, anomalies, and correlations between variables.
+- Carry out descriptive statistics (means, medians, and frequency counts).
+- Plot data using histograms, scatter graphs, and trend lines.
+- Identify missing values, inconsistencies, and variable relationships.
 
 **Tools and Technologies:**
 - AWS Data Brew for data profiling
