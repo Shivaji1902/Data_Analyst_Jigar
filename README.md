@@ -1,7 +1,7 @@
 # Data_Analyst_Jigar
 # Exploratory Data Analysis
 
-![EDA analysis](/images/eda.png)
+![EDA analysis]
 
 **Project Description:**
 Analyzing water system operating permits for patterns, trends, and anomalies in issued permits across mechanical system types, compliance, and contamination levels.
