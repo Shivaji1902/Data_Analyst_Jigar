@@ -140,7 +140,7 @@ The raw data is kept in an S3 bucket containing 466 permit records.
 
 # Data Quality Control
 
-![Data Quality Control](Quality control.png)
+![Data Quality Control](Quality_control.png)
 
 **Project Description:**
 Maintaining the accuracy and reliability of permit data through management and validation processes.
