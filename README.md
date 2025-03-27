@@ -54,49 +54,49 @@ Covers 465 water systems, with an emphasis on types such as Cooling Towers, Buil
 - Generate bar charts for voluntary and non-voluntary permit distribution.
 
 **Tools and Technologies:**
-- AWS Athena for querying permit data
+- AWS Athena to query permit data
 - Excel and Tableau for visualization
 
 **Deliverables:**
-- Percentage of Cooling Tower permits (86.89%)
-- Charts showing compliance trends and system breakdown
+- Cooling Tower approvals percentage (86.89%)
+- Adherence pattern and operational gap charts
 
 # Diagnostic Analysis
 
 ![Diagnostic Analysis](Diagnostic.png)
 
 **Project Description:**
-Analyzing factors affecting permit renewal patterns and voluntary compliance among mechanical system types.
+Analyzing the determinants of trends in permit renewal and voluntary compliance among heterogeneous groups of mechanical systems.
 
 **Project Title:**
-Diagnostic Analysis of Permit Renewal Patterns
+Assessment of Patterns in Permit Reissuance
 
 **Objective:**
-To diagnose reasons behind peak renewal periods and low voluntary compliance participation.
+In order to ascertain the cause of high renewal times and voluntary compliance that is low.
 
 **Background:**
-The dataset reveals a dominance of Cooling Towers in permit issuance and a peak renewal trend in 2025. Voluntary compliance remains minimal despite the critical role of Cooling Towers.
+The statistics reflect a surplus of cooling towers in permit approvals and a rising renewal trend in 2025. Despite the integral role played by Cooling Towers, there is low voluntary compliance.
 
 **Dataset:**
-Permit records with renewal dates, compliance status, and contamination metrics.
+Permit documentation like renewal dates, compliance levels, and pollution levels.
 
 **Methodology:**
-- Query data for renewal trends in 2024-2026.
-- Assess correlation between compliance and system types.
-- Investigate contamination metrics and their relationship with compliance.
+- Get data on renewal trends for 2024 to 2026.
+- Analyze the connection between compliance and various systems.
+- Talk about contamination indicators and their relation to compliance.
 
 **Tools and Technologies:**
-- AWS Glue for data pipelining
-- Amazon S3 for data storage
+- AWS Glue for managing data workflow
+- Amazon S3 for storing data
 - Tableau for trend visualization
 
 **Deliverables:**
-- Renewal trend analysis for 2025
-- Factors influencing compliance
+- Renewal trends analysis for 2025
+- Causes of compliance
 
 **Timeline:**
 - Data extraction: 1 week
-- Analysis and visualization: 2 weeks
+- Visualization and analysis: 2 weeks
 - Report generation: 1 week
 
   
