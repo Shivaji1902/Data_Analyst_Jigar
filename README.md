@@ -105,69 +105,66 @@ Permit documentation like renewal dates, compliance levels, and pollution levels
 ![Data Wrangling](Wrangling.png)
 
 **Project Description:**
-Cleaning and transforming water system permit data for accurate analysis and visualization.
+Examining and modifying permit information regarding water systems for proper assessment and representation.
 
 **Project Title:**
-Data Wrangling for Water System Permits
+Preparation of Data for Water System Permitting
 
 **Objective:**
-To prepare a clean and structured dataset for analysis and ensure data quality.
+To create a clean and organized dataset to analyze and maintain data integrity.
 
 **Background:**
-Initial data contains missing contamination metrics and whitespace issues in numerical columns.
+Initial data features absent contamination measurements and whitespace issues within numeric columns.
 
 **Dataset:**
-Raw dataset stored in S3 bucket with 472 permit records.
+The raw data is kept in an S3 bucket containing 466 permit records.
 
 **Methodology:**
-- Profile data using AWS Data Brew.
-- Clean missing values and whitespace using Data Glue recipes.
-- Transform and store cleaned data in S3.
+- Use AWS Data Brew for profiling data.
+- Utilize Data Glue recipes to eliminate missing values and excess whitespace.
+- Processed data conversion and saving in S3.
 
 **Tools and Technologies:**
-- AWS Data Brew for profiling
-- AWS Glue for ETL tasks
-- S3 buckets for storage
+- AWS Data Brew for analytics
+- AWS Glue assists in loading, transformation, and extraction activities.
+- Storage in S3 buckets
 
 **Deliverables:**
 - Cleaned dataset in S3
 - Data cleaning recipes
 
 **Timeline:**
-- Data profiling: 2 days
-- Data cleaning: 5 days
-- Storage and validation: 2 days
+- Data profiling: 3 days
+- Data cleaning: 4 days
+- Storage and validation: 3 days
 
 # Data Quality Control
 
 ![Data Quality Control](Quality control.png)
 
 **Project Description:**
-Ensuring the reliability and accuracy of permit data through validation and governance measures.
+Maintaining the accuracy and reliability of permit data through management and validation processes.
 
 **Project Title:**
-Data Quality Control for Permit Issuance Records
+Data Quality Control for Permit Issuance
 
 **Objective:**
-To validate and maintain data quality through governance frameworks and security mechanisms.
+To preserve and ensure data quality by means of governance structures and security measures.
 
 **Background:**
-Data quality issues, such as incomplete contamination metrics, hinder comprehensive analysis. Steps for governance and protection are critical.
-
-**Scope:**
-Focus on improving data reliability for exploratory and diagnostic analysis.
+Data quality issues such as missing metrics for contamination hinder in-depth analysis. Governance measures and protection are needed.
 
 **Methodology:**
-- Create pipelines for quality assessment and segregation of passed/failed data.
-- Implement encryption and replication rules in S3 for data protection.
-- Monitor data quality metrics using AWS CloudWatch.
+- Established ways of measuring quality and sorting data into successful and unsuccessful groups.
+- Apply encryption and replication techniques in Amazon S3 to protect data integrity.
+- Use AWS Cloud Watch to track data quality indicators.
 
 **Deliverables:**
-- Quality-assured datasets
-- Reports on passed/failed data
-- Encrypted and replicated datasets
+- Datasets with quality assurance
+- Accounts on succeeded/unsucceeded information
+- Datasets that are encrypted and replicated
 
 **Timeline:**
 
-- Pipeline creation: 1 week
-- Data governance setup: 3 days
+- Pipeline creation: 1.5 week
+- Data governance setup: 4 days
