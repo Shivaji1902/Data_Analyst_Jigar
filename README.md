@@ -170,4 +170,4 @@ Data quality issues such as missing metrics for contamination hinder in-depth an
 - Data governance setup: 4 days
 
 
-  ![AWS Course Complition Badge](Quality_Control.png)
+  ![AWS Course Complition Badge](aws-academy-cloud-foundations.png)
