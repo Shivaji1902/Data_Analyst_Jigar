@@ -140,7 +140,7 @@ The raw data is kept in an S3 bucket containing 466 permit records.
 
 # Data Quality Control
 
-![Quality Control](Quality Control.png)
+![Data Quality Control](Quality_Control.png)
 
 **Project Description:**
 Maintaining the accuracy and reliability of permit data through management and validation processes.
@@ -168,3 +168,6 @@ Data quality issues such as missing metrics for contamination hinder in-depth an
 
 - Pipeline creation: 1.5 week
 - Data governance setup: 4 days
+
+
+  ![AWS Course Complition Badge](Quality_Control.png)
