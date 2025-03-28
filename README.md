@@ -169,5 +169,5 @@ Data quality issues such as missing metrics for contamination hinder in-depth an
 - Pipeline creation: 1.5 week
 - Data governance setup: 4 days
 
-# AWS Course Complition Badge
+# AWS Course Completion Badge
 ![AWS Badge](aws-academy-cloud-foundations.png)
